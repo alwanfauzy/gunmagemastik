@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Colors Store</string>
+    <string name="heroes_name">Nama HP</string>
+    <string name="detail">Detail</string>
+    <string name="about_me">About Me</string>
+    <string name="visit_my_store">Visit My Store</string>
+    <string name="about_name">Alwan Fauzi</string>
+    <string name="about_email">alwanfauzi13@gmail.com</string>
+</resources>
